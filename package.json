@@ -1,0 +1,19 @@
+{
+  "name": "e2etest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juacostac/e2etest.git"
+  },
+  "author": "Julio Acosta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juacostac/e2etest/issues"
+  },
+  "homepage": "https://github.com/juacostac/e2etest#readme"
+}
