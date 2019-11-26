@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/juacostac/e2etest#readme",
   "devDependencies": {
-    "cypress": "^3.6.1"
+    "cypress": "^3.6.1",
+    "cypress-cucumber-preprocessor": "^1.16.2"
   }
 }

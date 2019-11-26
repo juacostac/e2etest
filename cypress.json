@@ -1,1 +1,13 @@
-{ "chromeWebSecurity": false } 
+{
+    "integrationFolder": "./cypress/features",
+    "pluginsFile": "./cypress/plugins/index.js",
+    "supportFile": "./cypress/support/index.js",
+    "video": false,
+    "baseUrl": "https://www.mercadolibre.com.ar/",
+    "pageLoadTimeout": 100000,
+    "defaultCommandTimeout": 6000,
+    "trashAssetsBeforeRuns": true,
+    "numTestsKeptInMemory": 10,
+    "blacklistHosts": "www.google-analytics.com",
+    "chromeWebSecurity": false
+}
